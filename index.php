@@ -5,7 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
-	<? php
+	<?php
 	$naam = "Remy";
 	?>
 
