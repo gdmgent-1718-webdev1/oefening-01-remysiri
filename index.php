@@ -9,6 +9,6 @@
 	$naam = "Remy";
 	?>
 
-	<h1>Welkom <?php echo $naam;?></h1>
+	<h1>Welkom <?= $naam ?></h1>
 </body>
 </html>
